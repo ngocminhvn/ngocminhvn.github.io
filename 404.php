@@ -253,7 +253,7 @@ opacity: 0.8;
 <hr>
 <div class='_1'>THE PAGE</div>
 <div class='_2'>NOT FOUND</div>
-<a class='btn' href='http://www.trinhngocminh.xyz/'>Trang Chủ</a>
+<a class='btn' href='#'>Trang Chủ</a>
 </div>
 <script src="assets/js/tym.js"></script>
 </body>
