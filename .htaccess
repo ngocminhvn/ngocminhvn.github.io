@@ -1,1 +1,6 @@
+Options –Indexes.
+
+RewriteEngine on
+RewriteRule (.*).ccp$ $1.html
+
 ErrorDocument 404 /404.html
